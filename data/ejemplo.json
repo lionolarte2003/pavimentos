@@ -1,0 +1,21 @@
+{
+  "programa": "PaviEtrans 2.0",
+  "proyecto": "Análisis Estadístico del Tráfico y Determinación del Crecimiento Vehicular",
+  "institucion": "Universidad Nacional de Huancavelica",
+  "facultad": "Facultad de Ingeniería Civil",
+  "curso": "Pavimentos",
+  "grupo": "Grupo 03",
+  "docente": "Vargas Crispin, Wilber Samuel",
+  "unidad_trafico": "vehículos/día",
+  "observaciones": [
+    { "anio": 2017, "trafico": 4250 },
+    { "anio": 2018, "trafico": 4410 },
+    { "anio": 2019, "trafico": 4635 },
+    { "anio": 2020, "trafico": 4520 },
+    { "anio": 2021, "trafico": 4860 },
+    { "anio": 2022, "trafico": 5105 },
+    { "anio": 2023, "trafico": 5360 },
+    { "anio": 2024, "trafico": 5650 },
+    { "anio": 2025, "trafico": 5985 }
+  ]
+}
